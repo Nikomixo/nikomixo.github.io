@@ -7,8 +7,8 @@ Current computer science student as OSU Cascades with a desire to learn and impr
 
 # Contact
 Email: kevint0218@outlook.com
+
 Github: github.com/nikomixo
-Phone: 503-830-8107
 
 # Current Projects
 Internship at The Environmental Center (2022 - Current)
